@@ -21,25 +21,25 @@ body {
 .features-content {
 	display: flex;
 	max-width: 300px;
-	padding: 0.3rem;
 	flex-direction: column;
 	align-items: center;
 	text-align: center;
 }
 
 .features-block-img {
+	margin-top: 1rem;
 	width: 63px;
 }
 
 .features-title {
 	margin-top: 2.2rem;
-	font-weight: 800;
+	font-size: 0.87rem;
+	font-weight: 700;
 	text-transform: uppercase;
 }
 
 .features-text {
-	margin-top: 1.6rem;
-	margin-bottom: 4.7rem;
+	padding: 1.6rem 1.8rem 4.7rem 1.8rem;
 	font-size: 0.87rem;
 	color: #80858b;
 }
